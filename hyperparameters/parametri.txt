@@ -1,0 +1,51 @@
+Fitting 5 folds for each of 100 candidates, totalling 500 fits
+PREŠERNOV TRG-PETKOVŠKOVO NABREŽJE: {'subsample': 1, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 500, 'min_child_weight': 7, 'max_depth': 3, 'learning_rate': 0.07, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+POGAČARJEV TRG-TRŽNICA: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 500, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.07, 'lambda': 5, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+KONGRESNI TRG-ŠUBIČEVA ULICA: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 500, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.07, 'lambda': 5, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+CANKARJEVA UL.-NAMA: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 500, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.07, 'lambda': 5, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+BREG: {'subsample': 1, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 500, 'min_child_weight': 7, 'max_depth': 3, 'learning_rate': 0.07, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+GRUDNOVO NABREŽJE-KARLOVŠKA C.: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+MIKLOŠIČEV PARK: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 500, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.07, 'lambda': 1, 'gamma': 0.1, 'booster': 'gbtree', 'alpha': 0}
+
+BAVARSKI DVOR: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 500, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.07, 'lambda': 1, 'gamma': 0.1, 'booster': 'gbtree', 'alpha': 0}
+
+TRG OF-KOLODVORSKA UL.: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 500, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.07, 'lambda': 5, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+MASARYKOVA DDC: {'subsample': 1, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 500, 'min_child_weight': 7, 'max_depth': 3, 'learning_rate': 0.07, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+VILHARJEVA CESTA: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+PARK NAVJE-ŽELEZNA CESTA: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 500, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.07, 'lambda': 5, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+TRG MDB: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+PARKIRIŠČE NUK 2-FF: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+AMBROŽEV TRG: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+GH ŠENTPETER-NJEGOŠEVA C.: {'subsample': 1, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+ILIRSKA ULICA: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+TRŽAŠKA C.-ILIRIJA: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+TIVOLI: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+STARA CERKEV: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 5, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+KINO ŠIŠKA: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 500, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.07, 'lambda': 5, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+ŠPICA: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+BARJANSKA C.-CENTER STAREJŠIH TRNOVO: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+ZALOŠKA C.-GRABLOVIČEVA C.: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
+TRŽNICA MOSTE: {'subsample': 0.5, 'seed': 42, 'objective': 'reg:absoluteerror', 'n_estimators': 1000, 'min_child_weight': 15, 'max_depth': 3, 'learning_rate': 0.01, 'lambda': 1, 'gamma': 0, 'booster': 'gbtree', 'alpha': 0}
+
